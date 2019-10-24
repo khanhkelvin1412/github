@@ -1,1 +1,3 @@
 i am testing about the command of git
+
+On branch master, i will add an array[20] = {1,2,3,4,5,6,7,8,9}
