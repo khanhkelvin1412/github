@@ -1,0 +1,2 @@
+mot so thay doi trong git 
+nhung thay doi tren se duoc push len github de co the quan li mot cach de dang
